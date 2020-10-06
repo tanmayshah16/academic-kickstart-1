@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -19,43 +19,52 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "University of Illinois at Urbana Champaign"
-  organization_url = "https://illinois.edu"
-  title = "Object-Oriented Data Structures in C++ by University of Illinois at Urbana-Champaign"
-  url = "https://illinois.edu"
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/XXHQRQBCR2NJ"
-  date_start = "2019-05-01"
-  date_end = ""
-  description = ""
-
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning Specialisation"
+  organization = "Ineuron"
+  organization_url = "https://academy.ineuron.ai/"
+  title = "Machine Learning and Deployement"
   url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/DNPTQ7FT35CP"
-  date_start = "2018-07-01"
+  date_start = ""
   date_end = ""
   description = ""
 
+
 [[item]]
-  organization = "Pune University"
-  organization_url = "https://unipune.ac.in"
-  title = "Certification Course in German"
+  organization = "Ineuron"
+  organization_url = "https://academy.ineuron.ai/"
+  title = "Statistics for Data Science"
   url = ""
   certificate_url = ""
-  date_start = "2018-05-01"
+  date_start = ""
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com"
+  title = "Machine Learning using Python"
+  url = ""
+  certificate_url = ""
+  date_start = ""
   date_end = ""
   description = ""
   
 [[item]]
-  organization = "NPTEL"
-  organization_url = "https://nptel.ac.in"
-  title = "Cryptography and Network Security"
-  url = "http://nptel.ac.in/noc"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Understanding and Visualizing Data with Python"
+  url = ""
+  date_start = ""
+  date_end = ""
+  description = ""  
+  
+  
+[[item]]
+  organization = "Tableau"
+  organization_url = "https://www.tableau.com/"
+  title = "Tableau- Data Analyst Role"
+  url = ""
   certificate_url = ""
-  date_start = "2018-05-01"
+  date_start = ""
   date_end = ""
   description = ""
   
