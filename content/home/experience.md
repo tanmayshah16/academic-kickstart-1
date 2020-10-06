@@ -20,31 +20,58 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Software Engineering Intern"
-  company = "RhythmFlows"
-  company_url = "https://rhythmflows.com"
+  title = "Embedded Software Intern"
+  company = "Sushrut Designs"
+  company_url = "https://sushrutdesigns.com"
   location = "Pune, India"
-  date_start = "2020-08-08"
-  date_end = ""
-  description = """Building a generic library in Python to check reconcilliation status fortransactions of different business entities. The reconcilliation system helps in analyzing patterns for fraudulent transactions."""
+  date_start = "2020-07-01"
+  date_end = "2020-09-10"
+  description = """Building an electronics device to enhance blood circulation in legs. Added automation features and assisted in the integration and product development."""
 
 [[experience]]
-  title = "Data Science Intern"
-  company = "Sirpi"
-  company_url = "https://sirpi.io"
-  location = "Pune, India"
-  date_start = "2020-08-08"
-  date_end = ""
-  description = """Restructuring transitions and providing functional enhancements for a Business Chatbot which is built using R tools and frameworks. Solving Reprexes which will further be integrated with complex statistical models."""
+  title = "Technical Intern"
+  company = "Icapotech"
+  company_url = "https://icapotech.com/"
+  location = "Mumbai, India"
+  date_start = "2020-08-17"
+  date_end = "2020-09-17"
+  description = """Developed a Mask detection system using OpenCV and Tensorflow libraries using Multithreaded Programming in Python. Integrated database with the system for storing and analyzing User's data for further analysis."""
 
 [[experience]]
-  title = "Project Intern"
-  company = "Persistent Systems"
-  company_url = "https://www.persistent.com"
-  location = "Pune, India"
-  date_start = "2019-06-06"
-  date_end = "2020-06-06"
-  description = """Worked on a centralized <i>Slack-API based DevOps System</i> which manages automation tasks on interconnected PCs. These tasks are being deployed using RedHat Ansible with the help of Docker containers. User level queries are processed using NLP."""
+  title = "Data Analyst"
+  company = "KPMG(InsideSherpa)"
+  company_url = "https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship"
+  location = "Virtual Internship"
+  date_start = "2020-05-01"
+  date_end = "2020-05-15"
+  description = """Data quality assessment and Model development of sales in the cycle company. Targeting high-value customers based on customer demographics and attributes."""
+
+[[experience]]
+  title = "IoT Developer"
+  company = "XINFIN"
+  company_url = "https://xinfin.org"
+  location = "Mumbai, India"
+  date_start = "2019-01-01"
+  date_end = "2019-02-01"
+  description = """Introduced methodologies and best practices to software development division to enhance product definition and application customization. Development of PoC used in logistics purposes."""
+
+[[experience]]
+  title = "IoT Developer"
+  company = "ExpertsHub"
+  company_url = "https://www.expertshub.org/internship/iot"
+  location = "Mumbai, India"
+  date_start = "2018-12-01"
+  date_end = "2018-12-30"
+  description = """Developed an autonomous car with a voice control feature. Developed a mobile app for tracking and controlling of car. Won best Intern Awards."""
+
+[[experience]]
+  title = "Technical Research Intern"
+  company = "Reliance JIO"
+  company_url = "https://www.jio.com/welcome"
+  location = "Mumbai, India"
+  date_start = "2018-06-01"
+  date_end = "2018-08-01"
+  description = """Drafted a technical report on the telecom sector from 2G to 5G in India. Gathered, arranged and corrected research data to create representative graphs and charts highlighting results for presentations."""
 
 
 +++
